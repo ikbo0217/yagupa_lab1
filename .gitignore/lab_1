@@ -1,3 +1,4 @@
+git commit -a -m 'deleting files'
 #include <stdio.h>
 #include <stdlib.h>
 void ConvertWithScale(float temp, char scale){ //function for calculating the temperature if scale was entered
